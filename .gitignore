@@ -1,0 +1,30 @@
+# This is a .gitignore file for Unity projects
+
+# Unity generated files
+[Bb]in/
+[Ll]og/
+[Oo]bj/
+[Ll]ibrary/
+[Tt]emp/
+[Aa]ssets/**/*.cs.meta
+[Aa]ssets/**/*.dll
+
+# Builds
+[Bb]uild/
+[Bb]uilds/
+
+# User-specific files
+[Bb]ackup/ 
+[Pp]rojectSettings/EditorBuildSettings.asset
+[Pp]rojectSettings/EditorSettings.asset
+[Pp]rojectSettings/GraphicsSettings.asset
+[Pp]rojectSettings/InputManager.asset
+[Pp]rojectSettings/QualitySettings.asset
+[Pp]rojectSettings/TagManager.asset
+[Pp]rojectSettings/ProjectSettings.asset
+[Pp]rojectSettings/Physics2DSettings.asset
+[Pp]rojectSettings/PhysicsSettings.asset
+[Pp]rojectSettings/TimeSettings.asset
+
+# Visual Studio cache directory
+.vs/
